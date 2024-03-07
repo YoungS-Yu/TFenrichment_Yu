@@ -14,6 +14,10 @@ library(tibble)
 
 The file corresponding to the Transcription Factor Target Matrix and TF lists are stored in AnnoList2.RData and peakAnnoNames.RData.
 
+AnnoList2.RData : https://drive.google.com/file/d/1N8K8lDj75zTi0gBWCwSGEjLA3SOC2rEL/view
+
+peakAnnoNames.RData : https://drive.google.com/file/d/1MsxQ9yHQF6mD440XKLUr18Cf7aTJJy7Z/view?usp=sharing
+
 
 The TF list was compiled based on the referenced paper by 
 > Lambert, S. A., Jolma, A., Campitelli, L. F., Das, P. K., Yin, Y., Albu, M., Chen, X., Taipale, J., Hughes, T. R., & Weirauch, M. T. (2018). The Human Transcription Factors. Cell, 172(4), 650–665. https://doi.org/10.1016/j.cell.2018.01.029
